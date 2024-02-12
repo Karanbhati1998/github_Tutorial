@@ -10,4 +10,13 @@ function branch(){
 }
 const brnach2="feact3"
 console.log("stash work her for testing" )
-const name1="vikas"
+console.log("stadhing 1");
+console.log("stadhing 2");
+console.log("stadhing 3");
+console.log("stadhing 4");
+console.log("stadhing 5");
+console.log("stadhing 6");
+console.log("stadhing 9");
+console.log("stadhing 10");
+console.log("stadhing 11");
+console.log("stadhing 12");
