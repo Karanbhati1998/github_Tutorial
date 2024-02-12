@@ -1,5 +1,6 @@
 const age=24;
 const name1="karan "
+const name="karan mahepa jagir "
 const dob=6-6-1998
 const lastname='karan bhati'
 function name(){
